@@ -1,0 +1,28 @@
+p {
+  width: 500px;
+  border: 2px solid white;
+  display: inline-block;
+  text-align: left;
+}
+p label {
+  margin-left: 50px;
+  color: yellowgreen;
+}
+p label .name-styles {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+p label .email-styles {
+  margin-left: 46px;
+  margin-top: 20px;
+}
+p label .massege-styles {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+p button {
+  margin-left: 220px;
+  background-color: bisque;
+}/*# sourceMappingURL=FormComponent.css.map */
+
+

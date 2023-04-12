@@ -1,0 +1,21 @@
+p {
+    width: 270px;
+    border: 2px solid bisque;
+    display: inline-block;
+    text-align: left;
+
+    label {
+        margin-left: 50px;
+        color: blanchedalmond;
+
+        .error {
+            border: 2px solid red;
+        }
+    }
+
+    button {
+        margin-left: 100px;
+        background-color: bisque;
+        margin-bottom: 20px;
+    }
+}

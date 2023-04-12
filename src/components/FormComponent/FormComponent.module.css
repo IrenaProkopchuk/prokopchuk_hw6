@@ -1,0 +1,13 @@
+span {
+  margin-left: 50px;
+  font-size: 18px;
+  color: red;
+}
+
+input, textarea{
+  margin-left: 50px;
+}
+
+textarea{
+  margin-top: 10px;
+}
